@@ -5,11 +5,12 @@
 <head>
 </head>
 <body>
-<p>As Team Two We Decided to Share Our IBM Experience </p>
-<p>Each Member Will Share their experiene on IBM based on Different Fields</p>
+	<p><b>As Team Two We Decided to Share Our IBM Experience </b></p>
+<p><b>Each Member Will Share their experiene on IBM based on Different Fields</b></p>
 
 <h2>Tshezi Momelezi</h2>
-<p>I Momelezi Tshezi have the experience on Github </p>
+<h3>GITHUB</h3>
+<p>I Momelezi Tshezi have the experience on IBM with Github </p>
 <p>I've done exploration and got to Git badge</p>
 <p>I learned the notes as required for anyone before proceeding to earn badge</p>
 <p>I then took took a Quiz</p>
