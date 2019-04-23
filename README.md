@@ -29,11 +29,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title></title>
+	
 </head>
 <body>
 	<div> 
-		<h>Zizo Maduna<h>
+		<h1>Zizo Maduna<h1>
 		<h2>JAVA</h2>
 		<p> This will be a short describtion about Java.</p>
 		<p>Java is a programming language that is used to develop programs that run on Windows, Mac and Linux computers or may be integrated into websites</p>
