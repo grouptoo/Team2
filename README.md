@@ -69,9 +69,10 @@
 		Data Science Life Cycle (CRISP-DM).<br><br><br>
                 All members did demonstrate the following skills<br><br><br>
 			
-		analytics,Bigdata,machine learning,data science,<br>
-		unsupervised learning and etc<br>
-		</p>
+		analytics,Bigdata,machine learning,data science
+		,unsupervised learning,unstructured data structure
+		and supervised learning
+		
 			
 	
 </body>
