@@ -79,3 +79,50 @@
 		
 </html>
 
+
+<!DOCTYPE html>
+<html>
+<head>
+	
+</head>
+<body>
+<h2>Sikelela jona </h1>
+<h4> BADGES </h4>
+	
+ What are Digital Badges? </br>
+A Digital Badge is a cross-industry digital recognition of technical</br> skills which can be shared on your social and professional networking sites, </br>
+as well as your digital signature.
+
+
+IBM is supporting this new program, based on open standards, through the creation</br> of a wide variety of badges covering a multitude of 
+technical and professional areas.
+	
+	
+	
+	<h4>EXPLORER AWARD</h4>
+The Explorer Award badge represents <br> achievements on the part of the learner who 
+is in the earlier stages <br>of acquiring knowledge and developing skills for<br>
+ a particular area of interest. Activities<br> associated with Explorer badges
+ include instructor led training, <br>self-directed learning 
+ assignments, workshops, mentoring<br> sessions, and quizzes or assessments.<br>
+
+	<h4>MASTERY AWARD </h4>
+The Mastery Award badge is awarded to individuals who have successfully completed <br>and passed the IBM Skills Academy
+ final exam. This badge is
+ typically associated with the <br>learner who has achieved and demonstrated a high level of understanding of the topic<br>
+ represented by passing the final exam.
+ 
+ <P><div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="3159a648-a47e-425b-857c-c5159fcba976">
+ </div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
+ 
+ <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="636a855a-5033-45d3-80ac-4d73be8a6aa6">
+	</div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
+	
+
+	<hr>
+	<div class="footer">
+	&copy; 2019 ceekay
+	</div>
+	</body>
+</html>
+
