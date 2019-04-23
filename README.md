@@ -6,6 +6,8 @@
 </head>
 <body>
 	<p><b>As Team Two We Decided to Share Our IBM Experience </b></p>
+	<p><b>We the Team of Third year Students from Walter Sisulu University</b></p>
+	<p><b>We Will Share Our Different Experiences on IBM</b></p>
 <p><b>Each Member Will Share their experiene on IBM based on Different Fields</b></p>
 	<h1>Group Members</h1>
 	<ul>
