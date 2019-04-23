@@ -7,7 +7,14 @@
 <body>
 	<p><b>As Team Two We Decided to Share Our IBM Experience </b></p>
 <p><b>Each Member Will Share their experiene on IBM based on Different Fields</b></p>
-
+	<h1>Group Members</h1>
+	<ul>
+		<li>Tshezi Momelezi</li>
+		<li>Maduna Zizo</li>
+		<li>Mchunu Bongekile</li>
+		<li>Viriri Timothy</li>
+		<li>Jona Sikelela</li>
+	</ul>
 <h2>Tshezi Momelezi</h2>
 <h3>GITHUB</h3>
 <p>I Momelezi Tshezi have the experience on IBM with Github </p>
