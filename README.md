@@ -24,3 +24,22 @@
 <p>Throughout that information i had a bit more experience on how to use Gibhub</p>
 </body>
 </html>
+
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+	<div> 
+		<h>Zizo Maduna<h>
+		<h2>JAVA</h2>
+		<p> This will be a short describtion about Java.</p>
+		<p>Java is a programming language that is used to develop programs that run on Windows, Mac and Linux computers or may be integrated into websites</p>
+		<p> l learnt how to download JDK 8 from Oracle</p>
+		<p> learnt about The Java Runtime Environment (JRE; also known as the Java runtime) includes the JVM, code libraries, and components that are necessary for running programs that are written in the Java language.</p>
+		<p>i learnt to work on linux and download fedora</p>
+	</div>
+</body>
+</html>
