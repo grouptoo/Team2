@@ -31,6 +31,7 @@
 </ul>
 
 <p>Throughout that information i had a bit more experience on how to use Gibhub</p>
+
 </body>
 </html>
 
@@ -51,4 +52,27 @@
 		<p>i learnt to work on linux and download fedora</p>
 	</div>
 </body>
+		
 </html>
+<!DOCTYPE html>
+<html>
+<head>
+	
+</head>
+<body>
+	<div> <h2>Data Science Fandamentals</h2>
+		<p>
+		With IBM in data science fundamentals we where able to learn<br>
+		many skills and about data science and be able to understand<br>
+		what is Big Data, types of data, Data Science tools, and the <br>
+		Data Science Life Cycle (CRISP-DM).<br>
+                All members did demonstrate the following skills<br>
+		analytics,Bigdata,machine learning,data science,<br>
+		unsupervised learning and etc<br>
+		</p>
+			
+	</div>
+</body>
+		
+</html>
+
