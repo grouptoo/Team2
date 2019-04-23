@@ -60,18 +60,20 @@
 	
 </head>
 <body>
-	<div> <h2>Data Science Fandamentals</h2>
+	<h1>Timothy Viriri</h1>
+	<h2>Data Science Fandamentals</h2>
 		<p>
 		With IBM in data science fundamentals we where able to learn<br>
 		many skills and about data science and be able to understand<br>
 		what is Big Data, types of data, Data Science tools, and the <br>
-		Data Science Life Cycle (CRISP-DM).<br>
-                All members did demonstrate the following skills<br>
+		Data Science Life Cycle (CRISP-DM).<br><br><br>
+                All members did demonstrate the following skills<br><br><br>
+			
 		analytics,Bigdata,machine learning,data science,<br>
 		unsupervised learning and etc<br>
 		</p>
 			
-	</div>
+	
 </body>
 		
 </html>
